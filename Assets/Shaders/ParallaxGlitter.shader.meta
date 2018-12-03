@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6435577e7b9254b478eb87bed41e9e97
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _GlitterNormals: {fileID: 2800000, guid: 99c484450929ac441813f986c3e59c94, type: 3}
+  - _GlitterMask: {fileID: 2800000, guid: c88223f5e288c1548a19713464296782, type: 3}
+  - _MainTex: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+  - _MainHeighmap: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+  - _GlitterHighmap: {fileID: 2800000, guid: 2d73df7815f9fc04f90266eb042007fb, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
