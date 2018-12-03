@@ -44,11 +44,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _GlitterMask:
         m_Texture: {fileID: 2800000, guid: 282eba6b7c35f4f48a271fcbfba76ef4, type: 3}
-        m_Scale: {x: 1.2, y: 1.2}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _GlitterNormals:
         m_Texture: {fileID: 2800000, guid: b4ed94d930af4fc4784a8f5cd9f1de73, type: 3}
-        m_Scale: {x: 1.2, y: 1.2}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Heighmap:
         m_Texture: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
