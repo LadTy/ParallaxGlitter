@@ -1,6 +1,6 @@
 # ParallaxGlitter Shader
 
-Simple parallax shader with a glitter effect in a 2nd parallax layer in an example Unity project
+Simple parallax shader with a glitter effect (not time but view-direction dependant) in a 2nd parallax layer in an example Unity project
 
 ![](Gitpage/ParallaxGlitter_Cube.gif)
 
