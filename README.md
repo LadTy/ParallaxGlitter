@@ -19,3 +19,5 @@ Included shaders were created using ShaderForge, so if you do have ShaderForge, 
 # ShaderForge Node Graph
 
 ![](Gitpage/ShaderForgeNodeGraph.png)
+
+It is worth noting, that ShaderForge does have a Parallax node to calculate the UV offset. I chose to go with a more explicit form though implementing it separately, mostly for learning purposes (and easier tweaking if needed).
