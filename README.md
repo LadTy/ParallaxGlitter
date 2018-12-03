@@ -6,8 +6,8 @@ Shaders were created using ShaderForge, so if you do have ShaderForge, you can e
 
 ![](Gitpage/ParallaxGlitter_Cube.gif)
 
-![](ParallaxGlitter_Icos.gif)
+![](Gitpage/ParallaxGlitter_Icos.gif)
 
 # ShaderForge Node Graph
 
-![](ShaderForgeNodeGraph.png)
+![](Gitpage/ShaderForgeNodeGraph.png)
