@@ -10,7 +10,7 @@ Simple parallax shader in an example Unity project
 
 # About
 
-Includes an example scene, background shader and material, parallax glitter material and all needed texture as shown in the example gifs.
+Includes an example scene, background shader and material, parallax glitter material and all needed textures as shown in the example gifs.
 
 Project made using Unity 2018.2.1f1
 
