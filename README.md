@@ -6,6 +6,8 @@ Simple parallax shader in an example Unity project
 
 ![](Gitpage/ParallaxGlitter_Icos.gif)
 
+![](Gitpage/ParallaxGlitter_6Cone.gif)
+
 # About
 
 Includes an example scene, background shader and material, parallax glitter material and all needed texture as shown in the example gifs.
